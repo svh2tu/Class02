@@ -32,7 +32,7 @@
 def main():
 
     #To print something to the screen in Python.
-    print("\n Hello Python Multiverse!!\n\n")
+    print("\n Hello Python Meowltiverse!!\n\n")
 
 
 #Call the main function
